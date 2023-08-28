@@ -1,0 +1,12 @@
+# Lista de módulos que você deseja incluir em seu initramfs.
+# Eles serão carregados no momento da inicialização na ordem abaixo.
+#
+# Sintaxe: module_name [args ...]
+#
+# Você deve executar update-initramfs(8) para efetuar esta alteração.
+#
+# Exemplos:
+#
+# raid1
+# sd_mod
+z3fold 
